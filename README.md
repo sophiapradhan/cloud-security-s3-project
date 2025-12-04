@@ -13,6 +13,9 @@ This project demonstrates basic cloud security principles using AWS S3:
 <img width="1439" height="670" alt="Screenshot 2025-12-04 at 11 20 58 AM" src="https://github.com/user-attachments/assets/e9bceb85-7f00-4809-9a26-a5c926fbbc10" />
 ### S3 Bucket
 <img width="623" height="309" alt="Screenshot 2025-12-04 at 11 10 14 AM" src="https://github.com/user-attachments/assets/529b8b9a-493a-4860-bf17-eb7627441c6c" />
+## Policy Simulation Test
+<img width="1440" height="592" alt="Screenshot 2025-12-04 at 12 02 46 PM" src="https://github.com/user-attachments/assets/0790809e-08b7-480f-94ed-ad8ead7c16c3" />
+
 
 ## How It Works
 1. Create a private S3 bucket and upload a test file.
